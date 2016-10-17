@@ -2,6 +2,12 @@
 # Plot a historgram of the global active power of the power consumption 
 # into the 02/01/2007 and 02/02/2007
 # 
+# The data of this assignment is from the UC Irvine Machine Learning Repository, 
+# a popular repository for machine learning datasets.
+#
+# In particular, it uses the "Individual household electric power consumption Data Set"
+# which was maded available on the course web site.
+# 
 # 1. Load the necessary libraries
 # 2. Download the zip data file
 # 3. Extract the data file from the zip
